@@ -5,9 +5,9 @@ Last Update Date :
 
 # 현재 학습 진행도  
 한눈에 보기    
-![100%](https://progress-bar.dev/0/?scale=243&title=progress&width=500&color=babaca&suffix=/243)   
+![100%](https://progress-bar.dev/7/?scale=243&title=progress&width=500&color=babaca&suffix=/243)   
 0x00. Level 1(Programming)  
-![100%](https://progress-bar.dev/0/?scale=54&title=progress&width=500&color=babaca&suffix=/54)  
+![100%](https://progress-bar.dev/7/?scale=54&title=progress&width=500&color=babaca&suffix=/54)  
 0x01. Level 1(SQL)    
 ![100%](https://progress-bar.dev/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10)    
 0x02. Level 2(Programming)  
