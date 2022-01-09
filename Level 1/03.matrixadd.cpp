@@ -1,6 +1,6 @@
 // Programmers Level 1. Çà·ÄÀÇ µ¡¼À
 // https://programmers.co.kr/learn/courses/30/lessons/12950
-
+ 
 #include <bits/stdc++.h>
 using namespace std;
 

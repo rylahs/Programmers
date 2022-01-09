@@ -1,6 +1,6 @@
 // Programmers Level 1. 소수 찾기
 // https://programmers.co.kr/learn/courses/30/lessons/12921
-
+ 
 #include <bits/stdc++.h>
 using namespace std;
 int prime[1000002];
