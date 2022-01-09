@@ -1,5 +1,5 @@
 // Programmers Level 1. 콜라츠 추측
-// https://programmers.co.kr/learn/courses/30/lessons/12944
+// https://programmers.co.kr/learn/courses/30/lessons/12943
 
 #include <bits/stdc++.h>
 using namespace std;
