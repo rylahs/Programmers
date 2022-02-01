@@ -1,4 +1,4 @@
-// Programmers Level 1. µÎ °³ »Ì¾Æ¼­ ´õÇÏ±â
+// Programmers Level 1. ë‘ ê°œ ë½‘ì•„ì„œ ë”í•˜ê¸°
 // https://programmers.co.kr/learn/courses/30/lessons/68644
 
 #include <bits/stdc++.h>
