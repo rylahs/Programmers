@@ -1,0 +1,8 @@
+-- Programmers Level 3. 있었는데요 없었습니다. (MySQL)
+-- https://programmers.co.kr/learn/courses/30/lessons/59043
+
+SELECT O.ANIMAL_ID, O.NAME
+FROM ANIMAL_OUTS AS O INNER JOIN ANIMAL_INS AS I
+ON O.ANIMAL_ID = I.ANIMAL_ID
+WHERE O.DATETIME < I.DATETIME
+ORDER BY I.DATETIME ASC;
